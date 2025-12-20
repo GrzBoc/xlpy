@@ -1,0 +1,71 @@
+KONFIGURACJA 
+
+https://support.microsoft.com/pl-pl/office/python-w-ustawieniach-inicjowania-programu-excel-ab0868da-cdfd-4f2d-a61e-1a242a97ea39 
+
+  
+
+BIBLIOTEKI 
+
+https://support.microsoft.com/pl-pl/office/biblioteki-typu-open-source-i-funkcja-j%C4%99zyk-python-w-programie-excel-c817c897-41db-40a1-b9f3-d5ffe6d1bf3e 
+
+ listowanie wszystkich bibliotek 
+
+https://python-bloggers.com/2024/10/how-to-see-all-packages-available-in-python-in-excel/ 
+
+  
+
+  
+
+GET STARTED 
+
+https://support.microsoft.com/en-us/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d 
+
+  
+
+  
+
+W komórce python ctrl+enter 
+
+=py aktywuje wpisywanie 
+
+  
+
+  
+
+PY xl("A3") można wpisac ale można klinać 
+
+można wpisywać nazwy zmiennej 
+
+  
+
+obok pola funkcji możan wybrać rodzaj rezultatu: - wartość programu excel albo obiekt jeżyka python - pierwsze lepsze do dalszego liczenia w excelu. 
+
+  
+
+tryb obliczeń częściowy - kara formuły - sekcja obliczenia i tam rodzaj można wybrać 
+
+  
+
+  
+
+MODEL w excel PY 
+
+  
+
+clustering 
+
+https://www.youtube.com/watch?v=nRCbQ1xACCw 
+
+  
+
+  
+
+model trenujacy 
+
+https://www.youtube.com/watch?v=Pd2HL0abaEA 
+
+  
+
+https://learning.anaconda.com/bundles/data-analysis-with-python-in-excel 
+
+https://learning.anaconda.com/collections 
